@@ -1,0 +1,34 @@
+// Check if the user is ready to play!
+confirm(I am ready to rumble!)
+var ninja = prompt("What's your ninja skill level 1-10?");
+if(ninja < 10)
+{
+    console.log("You may play, however we assume no responsibilty for the content of our game.")
+}
+else
+{
+    console.log("Play on Kunoichi!");
+}
+    console.log("This is Mortal Kombat!")
+var pac = prompt("Ok, not really but that would be cool. Who is 2pac's mother?");
+
+    if(pac != "Afeni Shakur")
+{
+        console.log("Sorry you are not a rebel fighter")
+        end
+}
+    else 
+{
+        console.log("Nice... You have skillz!")
+}
+
+var BP =prompt("What was her political offialition?");
+
+    if(BP != "Black Panthers")
+{
+      console.log("awe, that is too bad. later gater.")
+}
+    else 
+{
+      console.log("Right On! Power to the People!")
+}
