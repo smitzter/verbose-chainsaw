@@ -9,8 +9,8 @@ else
 {
     console.log("Play on Kunoichi!");
 }
-    console.log("This is Mortal Kombat!")
-var pac = prompt("Ok, not really but that would be cool. Who is 2pac's mother?");
+    console.log("This is Mortal Kombat! Ok, not really but that would be cool.")
+var pac = prompt("Who is 2pac's mother?");
 
     if(pac != "Afeni Shakur")
 {
